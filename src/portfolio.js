@@ -478,9 +478,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work Experience",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with corporates and evolving startups as Data Analys and Data Engineer.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -488,40 +488,40 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
+          title: "Senior Data Analyst",
+          company: "Sonova Group",
+          company_url: "https://www.sonova.com/",
+          logo_path: "tiktok_logo.png",// TODO: Add Sonova Logo
+          duration: "April 2023 - Present",
+          location: "Berlin, Germany",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "Improving the efficieny and performance of the Hearing aid centers across the globe.Creating end to end data pipelines for new markets and acquired stores to derive daily management insights and enhance customer growth and store productivity",
           color: "#000000",
         },
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
+          title: "Senior Customer Growth & Retention Data Analyst",
+          company: "felmo GmbH",
+          company_url: "https://felmo.de/",
+          logo_path: "legato_logo.png",// TODO: Add felmo logo
+          duration: "April 2022 - March 2023",
+          location: "Berlin, Germany",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Determining the impact of A/B tests on feature usages and income to scale back or eliminate a feature./nTrack the new revenue experiments from the moment they were launched and compare proactively on weekday level performance to determine the immediate impact before weekly or monthly KPIs are put into action./nSpearheaded product vision for implementation of Sustainable Packaging reporting dashboard for Sustainability Nudge Experiments in ecommerce vertical. /nUtilize behavioural cohort analysis to pinpoint client habits that we should try to change through various channels, including apps, websites, and customer care./nSetting up notifications when a web or mobile app's purchases aren't in sync with the database and taking specific action to direct developers to adjust utm parameters and attributions. /nTrack the new revenue experiments from the moment they were launched and compare proactively on weekday level performance to determine the immediate impact before weekly or monthly KPIS are put into action.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
+          title: "Quant Analytics Associate Wealth Management",
+          company: "JP Morgan & Chase co.",
+          company_url: "https://www.jpmorganchase.com/",
+          logo_path: "muffito_logo.png",// TODO: JPMC logo
+          duration: "June 2019 - March 2022",
+          location: "Mumbai, Maharashtra",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "Associate with experience in measuring the metrics from the behavior in Adobe Analytics data to their transactional value in Hive,Excel,Tableau in the entire customer journey from paid attribution channels to the company database. Expanding BI Reporting services to Data Hubs & API Integrations, Reporting support for scenarios like COVID 19, Integration of ESG Sustainability API. Customer Segmentation and RFM study helped in achieving MoM growth of new acquisitions of retirement accounts by 16% for Q2 2021. Analyzed and helped marketing teams to scale or kill module updates with robust A/B testing. Determined popular advisors within underserved clients based on service benchmark and created a promotional mailing list and optimized meeting scheduling for each advisor; Resulted in average 2.5% increased client interaction each week and slashed the drop off rates by 8%. Studied the influence of customer readership and interactions on learning,videos and questionnaire modules to reward engaging content writers.Discovered an increased interaction on app and helped the development team to prioritize page responsiveness updates.Week over Week engagement skyrocketed by 16%. Deduced the pain points in email rewards campaign and aided to optimize marketing budget by 3.5% with match pair A/B test campaigns for trading feature launch.Segmented campaigns by the LTV/CAC ratio. Designed scripts to find and engage Daily,Weekly and Monthly active,retained and churned traders(stickiness metrics) to sail through the Gamestop turmoil and firefight to retain clients by developing a BCG matrix model.",
           color: "#9b1578",
         },
         {
-          title: "Android Developer",
+          title: "Android Developer",// TODO: Add Experience
           company: "FreeCopy Pvt. Ltd.",
           company_url: "https://www.linkedin.com/company/freecopy/about/",
           logo_path: "freecopy_logo.png",
