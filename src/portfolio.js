@@ -521,20 +521,20 @@ const experience = {
           color: "#9b1578",
         },
         {
-          title: "Android Developer",// TODO: Add Experience
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
+          title: "Application Development Senior Analyst",// TODO: Add Experience
+          company: "Accenture Ltd.",
+          company_url: "https://www.accenture.com/",
+          logo_path: "freecopy_logo.png",// TODO: Accenture logo
+          duration: "May 2017 - May 2019",
+          location: "Mumbai, India",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Design,develop,optimise and publish Tableau Reports and Dashboards for reinsurance managers to track the various KPIs related to a broad range of specialized risk transfer products and services. Extensively worked on optimization of Tableau Dashboards and SSIS ETL packages to reduce the load/render time by 35%. Resolving ad-hoc and complex issues for the business users and training them on Tableau",
           color: "#fc1f20",
         },
       ],
     },
     {
-      title: "Internships",
+      title: "Internships",// TODO: Change
       experiences: [
         {
           title: "Machine Learning Intern",
