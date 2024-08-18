@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Smeet's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Data Analytics Professional with 13 years of experience specializing in driving business growth and customer retention through data-driven insights. Proven expertise in A/B testing, cohort analysis, and CRM campaign optimization. Skilled in utilizing analytics tools such as Adobe Analytics, Metabase, Tableau, and Python for data analysis. Adept at improving machine learning models and data products to enhance business performance.",
   og: {
     title: "Smeet Patel Portfolio",
     type: "website",
